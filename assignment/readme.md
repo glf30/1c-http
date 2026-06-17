@@ -19,7 +19,7 @@ First, create a file called `index.js`. This is the file you'll be working on.
 
 URL extension: `localhost:3000/jokes`
 
-Select a random joke from the following data, and send it as a response to `localhost:3000/jokes`.
+Select a random joke from the following data, and send it as a response to `localhost:3000/jokes`.  To get a random item from an array, utilize the `random.js` file inside the helper folder to create a function that will do just that.
 
 Jokes:
 
